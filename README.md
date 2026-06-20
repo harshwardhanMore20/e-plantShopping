@@ -1,4 +1,4 @@
-# Paradise Nursery
+# e-plantShopping
 
 Paradise Nursery is a houseplant storefront built with React, Redux Toolkit,
 and React Router. It has three pages — a landing page, a categorized product
